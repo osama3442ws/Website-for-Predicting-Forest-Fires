@@ -9,6 +9,8 @@ Prerequisites You must have Scikit Learn, Pandas (for Machine Leraning Model) an
 Project Structure
 
 #This project has four major parts :
+
+
 model.py - This contains code fot our Machine Learning model to Predict the probability of Forest-Fire Occurence absed on trainign data in 'Forest_fire.csv' file.
 
 app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
