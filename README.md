@@ -4,7 +4,7 @@
 
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
-Prerequisites You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
+Prerequisites You must have Scikit Learn, Pandas (for Machine Learning Model) and Flask (for API) installed.
 
 Project Structure
 
